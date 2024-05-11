@@ -77,5 +77,10 @@ You can click the Preview link to take a look at your changes.
   <p class="has-text-grey">Photo by <a href="https://unsplash.com/@julie_soul?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Julia Solonina</a> on <a href="https://unsplash.com/photos/a-beautiful-view-of-a-large-building-with-a-clock-tower-H_eN0Za6RQI?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
 </div>
 
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 
 
