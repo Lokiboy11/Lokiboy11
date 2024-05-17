@@ -77,3 +77,5 @@ You can click the Preview link to take a look at your changes.
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 </p>
+<img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+</p>
