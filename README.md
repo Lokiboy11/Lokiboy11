@@ -1,3 +1,7 @@
+<img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" />
+</p>
+
+
 - 👋 Hi, I’m @Lokiboy11
 - 👀 I’m interested in programming...
 - 🌱 I’m currently learning python and mongodb...
@@ -73,9 +77,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
-</p>
-<img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" />
-</p>
+
